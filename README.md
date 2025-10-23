@@ -31,24 +31,28 @@ I’m currently studying **Commerce, Computing, and Mathematical Science** at th
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/r-project.png" title="R" alt="R"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" alt="C"/>
-  <img src="https://img.icons8.com/color/48/sql.png" title="SQL" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
 </p>
 
 #### 🧰 Frameworks & Tools
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-rstudio-integrated-development-environment-for-r-programming-language-logo-color-tal-revivo.png" title="R Shiny" alt="R Shiny"/>
-  <img src="https://img.icons8.com/color/48/plotly.png" title="Plotly" alt="Plotly"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-office-2019--v1.png" title="Office 365" alt="Office 365"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" title="RStudio" alt="RStudio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Shiny.svg" title="Shiny" alt="Shiny" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_logo_%282013–2019%29.svg" title="Office 365" alt="Office 365" width="40" height="40"/>
 </p>
+
 
 ---
 
@@ -67,13 +71,6 @@ I’m currently studying **Commerce, Computing, and Mathematical Science** at th
 
 ---
 
-### 🌙 A Few Things About Me
-- ☕ Fuelled by coffee and curiosity  
-- 🎨 Design-focused developer (Figma, dashboards, clean UI)  
-- 📊 Love seeing numbers *make sense visually*  
-- 🐍 Python + R are my go-to tools for exploration  
-
----
 
 ### 📈 My GitHub at a Glance
 <p align="center">
