@@ -1,99 +1,92 @@
-<!-- Aria Huang GitHub Profile README -->
+<!-- Aria Huang - Minimal & Interactive GitHub Profile -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#8A2BE2">Aria Huang</span></h1>
-<h3 align="center">💻 Software Developer | 🧬 Data Scientist in the Making | 🌱 Lifelong Learner</h3>
+<h1 align="center">Hi there 👋, I'm Aria</h1>
+<h3 align="center">Building data-driven dashboards & blending code with design 🎨</h3>
+
+---
 
 <p align="center">
-  <a href="mailto:Aria.qinuo.huang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ariac137"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="mailto:Aria.qinuo.huang@gmail.com"><img src="https://img.icons8.com/ios-filled/30/EA4335/gmail.png" alt="gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/"><img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="linkedin"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ariac137"><img src="https://img.icons8.com/ios-filled/30/FFFFFF/github.png" alt="github"/></a>
 </p>
 
 ---
 
-### ✨ About Me
+### 👩‍💻 About Me
 
-Hey! I’m **Aria** — a curious developer who loves blending **data, design, and science**.  
-Currently studying **Commerce + Computing + Mathematical Science** at the **University of Melbourne** 🎓 (graduating 2026).  
+Hi, I’m **Aria Huang** — a developer who loves combining **data, design, and science** to create interactive dashboards and automation tools.  
+I’m currently studying **Commerce, Computing, and Mathematical Science** at the **University of Melbourne** (graduating 2026).  
 
-I get excited about:
-- 🧬 Building dashboards that turn messy biological data into beautiful insights  
-- ⚙️ Automating workflows and backend systems  
-- 🧠 Finding the story hidden in complex datasets  
-- 🎨 Designing clean and intuitive interfaces (yes, I *actually* enjoy Figma nights)  
+💡 My happy zone is where:
+- 🧬 Data meets visualization  
+- ⚙️ Automation meets creativity  
+- 🌈 Science meets storytelling  
 
 ---
 
-### 🧰 My Tech Playground
+### 🧠 My Toolkit
 
-#### 💻 Languages I Speak
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/r-project.png" title="R" alt="R"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" alt="C"/>
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS" alt="CSS"/>
 </p>
 
-#### 🧠 Frameworks, Tools & Toys
-<p>
-  <img src="https://img.shields.io/badge/R%20Shiny-0098FF?logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dash-0078D4?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/ggplot2-1A162D?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+#### 🧰 Frameworks & Tools
+<p align="left">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-rstudio-integrated-development-environment-for-r-programming-language-logo-color-tal-revivo.png" title="R Shiny" alt="R Shiny"/>
+  <img src="https://img.icons8.com/color/48/plotly.png" title="Plotly" alt="Plotly"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019--v1.png" title="Office 365" alt="Office 365"/>
 </p>
 
 ---
 
-### 🧩 What I’m Working On
+### 🧩 Current Projects
 
-🔬 **CSL Internship Project:** Automating data pipelines and designing a recovery rate dashboard for biotech research.  
-📊 **Multi-Omics Dashboard:** R Shiny app for uploading and exploring multi-omics metadata.  
-🚗 **BMW EV App Prototype:** Interactive prototype improving EV user experience with sustainability features.  
-💡 **Hackathon Projects:** Smart textiles, glucose tracking, and creative health data visualization.
-
----
-
-### 🏅 Cool Things I’ve Done
-🌟 1st Place – Accenture Bootcamp (Smart Textile Shirt Prototype)  
-🥈 2nd Place – Business Innovation Challenge (Finance Concept)  
-🥉 3rd Place – Hackathon (Health Data Integration App)  
-👩‍🏫 Tutored R Programming and Quantitative Methods at UniMelb  
-💬 Mentor at Girls Programming Network (helping young women learn to code!)  
+🌿 **Multi-Omics Data Upload Dashboard** — Interactive Shiny app for exploring multi-omics metadata.  
+⚗️ **CSL Research Internship** — Backend automation & recovery rate visualization for biotechnology workflows.  
+🚗 **BMW Project** — Prototype app improving EV customer experience with sustainability tracking.  
 
 ---
 
-### 🪄 Fun Facts
-- 🐍 Python is my comfort language  
-- 🎨 Figma + dashboards = my happy place  
-- 🌏 Based in Melbourne, but my code travels everywhere  
-- ☕ I debug better after my second coffee  
-- 🎵 My playlists are 70% lofi + 30% chaos  
+### 🪴 Side Quests
+- 👩‍🏫 **Tutor @ University of Melbourne** — R programming & quantitative analysis  
+- 💬 **Girls Programming Network Volunteer** — Teaching coding & debugging to high school students  
+- 🧵 **Hackathon Projects** — Smart textiles, glucose tracking dashboards, and bio-data visualization  
 
 ---
 
-### 🌟 My GitHub Universe
+### 🌙 A Few Things About Me
+- ☕ Fuelled by coffee and curiosity  
+- 🎨 Design-focused developer (Figma, dashboards, clean UI)  
+- 📊 Love seeing numbers *make sense visually*  
+- 🐍 Python + R are my go-to tools for exploration  
+
+---
+
+### 📈 My GitHub at a Glance
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariac137&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ariac137&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariac137&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ariac137&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariac137&theme=transparent" height="160" />
 </p>
 
 ---
 
-### 💬 Let’s Connect!
 <p align="center">
-  <a href="mailto:Aria.qinuo.huang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ariac137"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ariac137&label=Profile%20views&color=8e44ad&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-> 💫 “Building bridges between biology, data, and design — one dashboard at a time.”
+<p align="center"><i>✨ “Turning data into stories, and code into clarity.” ✨</i></p>
